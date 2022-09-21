@@ -8,7 +8,7 @@ import {
   Dimensions,
 } from "react-native";
 import meme from "./long.jpeg";
-
+//code for cs class
 let deviceWidth = Dimensions.get("window").width;
 export default function App() {
   return (
